@@ -2,6 +2,9 @@
 
 Noise is an iOS and Android social media mobile app where users tell their stories, find interesting stories and like-minded people, while interacting with a dynamic feed screen which allows them to effectively control the content they see and share.
 
+# Source code: 
+Hidden.
+
 # Status: 
 Refactoring.
 
