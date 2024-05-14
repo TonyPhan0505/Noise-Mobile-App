@@ -8,15 +8,11 @@ Hidden.
 # Status: 
 Refactoring.
 
-# Permissions:
-Please ask for my permission to use my code or my ideas.
-
 # Tech-stack:
 - M: MongoDB
 - E: Express.js
 - R: React Native
 - N: Node.js
-- Firebase
 
 # Demo vid:
 https://youtu.be/Kznytx29l8w?si=doCaI28aGoK9ncdH
