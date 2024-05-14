@@ -18,7 +18,6 @@ Refactoring.
 https://youtu.be/Kznytx29l8w?si=doCaI28aGoK9ncdH
 
 # Running the app:
-
 1. cd into the server folder and define the following variables: PORT, MONGO_USER (phanhuybinh05052003), MONGO_PASSWORD (nLk0IVqhwN2SU9T1), LOGIN_SECRET_KEY
 2. Still in the server folder, in the terminal, execute the command:
    ### `npm install`
