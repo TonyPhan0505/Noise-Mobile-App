@@ -21,10 +21,6 @@ Please ask for my permission to use my code or my ideas.
 # Demo vid:
 https://youtu.be/Kznytx29l8w?si=doCaI28aGoK9ncdH
 
-# ER Diagram:
-
-![Noise-ER-Diagram](https://user-images.githubusercontent.com/87828913/224516994-fc76331b-33bb-4120-ab33-a027595a7464.png)
-
 # Running the app:
 
 1. cd into the server folder and define the following variables: PORT, MONGO_USER (phanhuybinh05052003), MONGO_PASSWORD (nLk0IVqhwN2SU9T1), LOGIN_SECRET_KEY
