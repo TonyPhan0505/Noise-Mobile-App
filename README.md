@@ -6,7 +6,7 @@ Noise is an iOS and Android social media mobile app where users tell their stori
 Hidden.
 
 # Status: 
-Refactoring.
+Refactoring. To be live in September.
 
 # Tech-stack:
 - M: MongoDB
