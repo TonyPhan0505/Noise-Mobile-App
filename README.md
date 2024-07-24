@@ -1,6 +1,6 @@
 # Noise
 
-Noise is an iOS and Android blogging app for couples to keep their most beautiful memories vivid and find them easily in the future.
+Noise is an iOS and Android blogging app for couples to keep their most beautiful memories safe and vivid forever. They can find any memory easily at any time.
 
 # Source code: 
 Hidden.
