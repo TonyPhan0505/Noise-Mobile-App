@@ -1,12 +1,15 @@
 # Noise
 
-Noise is an iOS and Android social media mobile app where users tell their stories, find interesting stories and like-minded people, while interacting with a dynamic feed screen which allows them to effectively control the content they see and share.
+Noise is an iOS and Android blogging app for couples to keep their most beautiful memories vivid and find them easily in the future.
 
 # Source code: 
 Hidden.
 
+# Demo:
+https://youtu.be/STAyoGhPgKM?si=s-s8_kBsDfIonrE8
+
 # Status: 
-Refactoring. To be live in September.
+Deploying
 
 # Tech-stack:
 - M: MongoDB
@@ -14,53 +17,29 @@ Refactoring. To be live in September.
 - R: React Native
 - N: Node.js
 
-# Demo vid:
-https://youtu.be/Kznytx29l8w?si=doCaI28aGoK9ncdH
-
-# Running the app:
-1. cd into the server folder and define the following variables: PORT, MONGO_USER (phanhuybinh05052003), MONGO_PASSWORD (nLk0IVqhwN2SU9T1), LOGIN_SECRET_KEY
-2. Still in the server folder, in the terminal, execute the command:
-   ### `npm install`
-3. cd into the Noise folder, in the terminal, execute the command:
-   ### `npm install`
-4. cd into the server folder, in the terminal, execute the command:
-   ### `npm start`
-5. cd into the Noise folder, in the terminal, execute the command:
-   ### `npm start`
-6. Happy exploring!
-
 # Screenshots:
 
-#### 1. Login and sign up:
-<img width="419" alt="sign_in" src="https://github.com/TonyPhan0505/Noise/assets/87828913/0449c7b0-3ddb-49b1-8aa2-337f0271abd5">
-<img width="416" alt="sign_up" src="https://github.com/TonyPhan0505/Noise/assets/87828913/434d2358-ddca-46c9-9c6e-8af2448ff1f0">
+#### Login and sign up:
+<img width="396" alt="Screenshot 2024-07-24 at 10 05 22 PM" src="https://github.com/user-attachments/assets/acf7f102-e008-4435-9cea-0e969f08f341">
+<img width="399" alt="Screenshot 2024-07-24 at 10 06 02 PM" src="https://github.com/user-attachments/assets/2631b7fa-cf23-4631-b6cf-a107eee2dc2e">
+<img width="398" alt="Screenshot 2024-07-24 at 10 06 10 PM" src="https://github.com/user-attachments/assets/5ba31d84-92b3-44be-a4d0-2535a6a0ef84">
 
-#### 2. Feed screen (composed of activities which belong to those the user follows):
-<img width="415" alt="feedscreen" src="https://github.com/TonyPhan0505/Noise/assets/87828913/241de874-609a-4a25-a19e-afd7bd45da6c">
+#### Home screen:
+<img width="401" alt="Screenshot 2024-07-24 at 10 07 48 PM" src="https://github.com/user-attachments/assets/dacfb3f3-24eb-4bf5-96eb-a64d8cbdcf21">
+<img width="398" alt="Screenshot 2024-07-24 at 10 08 11 PM" src="https://github.com/user-attachments/assets/57189ede-46aa-43ea-9750-e20134da9df5">
 
-#### 3. Create moment screen (a moment is exactly like a story in Facebook/Instagram):
-<img width="416" alt="moment" src="https://github.com/TonyPhan0505/Noise/assets/87828913/7121cec7-a2bc-4d97-8237-c04f5c125ecb">
+#### Create post screen:
+<img width="398" alt="Screenshot 2024-07-24 at 10 09 13 PM" src="https://github.com/user-attachments/assets/036f9723-84c1-44b9-a98b-070e447e686e">
 
-#### 4. Profile screen:
-<img width="413" alt="profile" src="https://github.com/TonyPhan0505/Noise/assets/87828913/6af9415a-b366-40ad-964b-61194546627e">
+#### Manage post screen:
+<img width="407" alt="Screenshot 2024-07-24 at 10 09 54 PM" src="https://github.com/user-attachments/assets/591c380c-8ee3-4c19-8867-e318c5b213f6">
 
-#### 5. Create story:
-<img width="415" alt="create_story" src="https://github.com/TonyPhan0505/Noise/assets/87828913/f4dc79af-21bf-47dd-8d80-12569802c43e">
+#### Search results screen:
+<img width="404" alt="Screenshot 2024-07-24 at 10 11 01 PM" src="https://github.com/user-attachments/assets/678b2036-2062-4d82-987b-907027957a7a">
 
-#### 6. Comment:
-<img width="418" alt="comment" src="https://github.com/TonyPhan0505/Noise/assets/87828913/e8cdba75-1eb1-4553-a71b-840c52da8bc8">
+#### Pairing screen:
+<img width="404" alt="Screenshot 2024-07-24 at 10 11 33 PM" src="https://github.com/user-attachments/assets/b916be8a-c474-4e2b-8e0d-971c3f64cbc2">
 
-#### 7. See anyone's activities:
-<img width="418" alt="activities1" src="https://github.com/TonyPhan0505/Noise/assets/87828913/8ecfcb34-20d8-4e08-9ccd-bb2f72529cc7">
-<img width="416" alt="activities2" src="https://github.com/TonyPhan0505/Noise/assets/87828913/07687e6c-a5a4-4c3e-b840-182f4214cab6">
-
-#### 8. Story (composed of posts. A user use many posts to tell a story):
-<img width="416" alt="stories1" src="https://github.com/TonyPhan0505/Noise/assets/87828913/93b758f9-bb0e-4129-ab7c-a7ccd2de6121">
-<img width="420" alt="stories2" src="https://github.com/TonyPhan0505/Noise/assets/87828913/c51b33b7-9433-4f78-9aeb-e543379aa629">
-
-#### 9. Trophy (a user adds trophies to showcase their achievements in a journey):
-<img width="413" alt="trophy" src="https://github.com/TonyPhan0505/Noise/assets/87828913/89da9dc2-b7cf-4888-8ceb-bb604a1bcbb2">
-
-#### 10. Notifications:
-<img width="412" alt="notifications" src="https://github.com/TonyPhan0505/Noise/assets/87828913/a588e654-af84-4083-8b04-0d9a9d779313">
-
+#### Settings screen:
+<img width="406" alt="Screenshot 2024-07-24 at 10 12 49 PM" src="https://github.com/user-attachments/assets/3c1c5ec6-f42c-4a0c-b14d-9ae4be916052">
+<img width="403" alt="Screenshot 2024-07-24 at 10 13 03 PM" src="https://github.com/user-attachments/assets/3a622633-0647-42b7-87ca-7560d1618187">
