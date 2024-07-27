@@ -38,6 +38,7 @@ Deploying
 <img width="404" alt="Screenshot 2024-07-24 at 10 11 01 PM" src="https://github.com/user-attachments/assets/678b2036-2062-4d82-987b-907027957a7a">
 
 ### Pairing screen:
+<img width="415" alt="Screenshot 2024-07-27 at 10 27 59 PM" src="https://github.com/user-attachments/assets/3d95f763-4153-42fa-a956-ef1218332c04">
 <img width="404" alt="Screenshot 2024-07-24 at 10 11 33 PM" src="https://github.com/user-attachments/assets/b916be8a-c474-4e2b-8e0d-971c3f64cbc2">
 
 ### Settings screen:
