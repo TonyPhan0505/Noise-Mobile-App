@@ -2,6 +2,14 @@
 
 Nostagram is an iOS and Android blogging app for couples in long-distance relationships to keep their everyday memories safe and vivid forever. They can easily find any memory any time.
 
+# Features
+- Authentication and authorization with JWT.
+- Media uploads with Cloudinary.
+- Storing posts with MongoDB.
+- Beautiful and intuitive UI with React Native.
+- Robust backend with Express.js.
+- 2-step authentication with email.
+
 # Source code: 
 Hidden.
 
