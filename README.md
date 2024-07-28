@@ -9,6 +9,7 @@ Nostagram is an iOS and Android blogging app for couples in long-distance relati
 - Beautiful and intuitive UI with React Native.
 - Robust backend with Express.js.
 - 2-step authentication with email.
+- Infinite scrolling.
 
 # Source code: 
 Hidden.
