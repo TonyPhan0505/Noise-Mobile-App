@@ -1,6 +1,6 @@
-# Noise
+# Nostagram
 
-Noise is an iOS and Android blogging app for couples to keep their everyday memories safe and vivid forever. They can find any memory easily at any time.
+Nostagram is an iOS and Android blogging app for couples in long-distance relationships to keep their everyday memories safe and vivid forever. They can easily find any memory any time.
 
 # Source code: 
 Hidden.
