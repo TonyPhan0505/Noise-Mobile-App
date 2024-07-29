@@ -18,7 +18,7 @@ Hidden.
 https://youtu.be/STAyoGhPgKM?si=s-s8_kBsDfIonrE8
 
 # Status: 
-Deploying
+Deploying to Apple app store.
 
 # Tech-stack:
 - M: MongoDB
