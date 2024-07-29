@@ -1,6 +1,6 @@
 # Nostagram
 
-Nostagram is an iOS and Android blogging app for couples in long-distance relationships to keep their everyday memories safe and vivid forever. They can easily find any memory any time.
+Nostagram is an iOS blogging app for couples in long-distance relationships to keep their everyday memories safe and vivid forever. They can easily find any memory any time.
 
 # Features
 - Authentication and authorization with JWT.
