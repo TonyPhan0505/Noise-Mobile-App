@@ -3,7 +3,7 @@
 Nostagram is an iOS blogging app for couples in long-distance relationships to post about their everyday stuff in a safe and private place. They can easily find any memory at any time.
 
 # This app is available in Canada on:
-[![App Store link](https://github.com/user-attachments/assets/69b0ca09-2457-45c5-b055-e78cf3ecf632
+[![App Store link](https://github.com/user-attachments/assets/221e60bd-b86a-42df-ab74-591c795262d8
 )](https://apps.apple.com/ca/app/nostagram/id6590618047)
 
 # Features:
