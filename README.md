@@ -1,8 +1,12 @@
 # Nostagram
 
-Nostagram is an iOS blogging app for couples in long-distance relationships to keep their everyday memories safe and vivid forever. They can easily find any memory any time.
+Nostagram is an iOS blogging app for couples in long-distance relationships to post about their everyday stuff in a safe and private place. They can easily find any memory at any time.
 
-# Features
+# This app is available in Canada on:
+[![App Store link](https://github.com/user-attachments/assets/9c2c993d-ba5f-4283-86bb-61181f2f2761
+)](https://apps.apple.com/ca/app/nostagram/id6590618047)
+
+# Features:
 - Authentication and authorization with JWT.
 - Media uploads with Cloudinary.
 - Storing posts with MongoDB.
@@ -18,7 +22,7 @@ Hidden.
 https://youtu.be/STAyoGhPgKM?si=s-s8_kBsDfIonrE8
 
 # Status: 
-Deploying to Apple app store.
+Fully-functional and live.
 
 # Tech-stack:
 - M: MongoDB
